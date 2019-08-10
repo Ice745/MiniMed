@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+This is a mobile app for a controlling a medical vending machine
+It connects to an API that does the deductions and crediting of accounts as well as authentication of Users 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
